@@ -1,2 +1,2 @@
-# SPADE
-This is a repository for the SPADE plugin for FlowJo client.
+# Spade
+This is a repository for the Spade plugin for FlowJo client.
